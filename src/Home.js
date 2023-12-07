@@ -13,12 +13,12 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "#212a54", // Arka plan rengi
+    backgroundColor: "#092635 ",
   },
   text: {
     fontSize: 24,
     fontWeight: "bold",
-    color: "#ffff", // Yazı rengi
+    color: "#ffff",
   },
 });
 

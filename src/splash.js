@@ -6,7 +6,7 @@ const Splash = ({ navigation }) => {
   useEffect(() => {
     setTimeout(() => {
       navigation.navigate("Home");
-    }, 2000);
+    }, 8000);
   }, [navigation]);
 
   return (
@@ -27,7 +27,7 @@ const Splash = ({ navigation }) => {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "#13182e",
+    backgroundColor: "#1B4242",
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
