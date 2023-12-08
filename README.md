@@ -1,5 +1,4 @@
 
-https://github.com/erencansev/rn-animated-splash/assets/109366452/15ccaf9c-6275-449f-8d2a-63a73b29a9c8
 <p align="center">
   <a href="https://expo.dev/">
     <img alt="expo sdk" height="350" src="https://assets-global.website-files.com/645258eae17c724fb2ca4915/647a07a12239d09a010b0a26_all-logos.png">
